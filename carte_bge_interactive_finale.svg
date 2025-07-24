@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg height="100%" viewBox="0 0 1400 1980" width="100%" xmlns="http://www.w3.org/2000/svg">
+<image height="2048" href="BGE CARTE.jpg" width="1447" x="0" y="0"/>
+<style>
+  circle:hover {
+    fill: red;
+    fill-opacity: 0.4;
+    cursor: pointer;
+  }
+  text {
+    font-family: sans-serif;
+    font-size: 22px;
+    fill: black;
+    pointer-events: none;
+  }
+</style>
+<a href="https://docs.google.com/spreadsheets/d/1g3N_w7GSoU4x4T4D2eXpHggTqsGvLkrhjjLaI3qlZtk/edit?usp=drive_link" target="_blank" transform="matrix(1, 0, 0, 1, -58.300224, -27.631119)">
+<circle cx="1292" cy="459" fill="transparent" r="28.593" stroke="red" stroke-width="2"/>
+</a>
+<text style="white-space: pre; font-size: 22px;" x="1263" y="439"><title>Adil</title>BGE ADIL</text>
+<a href="https://docs.google.com/spreadsheets/d/1uoigd8aYqrEJupv1tMDaGxm-DPsifgnn8DVAbzfdlzs/edit?usp=drive_link" target="_blank" transform="matrix(1, 0, 0, 1, 77.338211, 169.714401)">
+<circle cx="1000" cy="570" fill="transparent" r="43.631" stroke="red" stroke-width="2"/>
+</a>
+<text style="white-space: pre; font-size: 22px;" x="1025" y="779"><title>Alsace Lorraine</title>BGE ALSACE-LORRAINE</text>
+<a href="https://docs.google.com/spreadsheets/d/1Me4pLl-LpjccjF_tQ1O7sZzOnQPcHqeBWlOPEdnxUoM/edit?usp=drive_link" target="_blank" transform="matrix(1, 0, 0, 1, 51.558807, -28.482836)">
+<circle cx="400" cy="930" fill="transparent" r="50.076" stroke="red" stroke-width="2"/>
+</a>
+<text style="white-space: pre; font-size: 22px;" x="330" y="871"><title>Pays de la Loire</title>BGE PAYS DE LA LOIRE</text>
+<a href="https://docs.google.com/spreadsheets/d/1MUtTkVf5_xT3syH9z8ZNFhQcJSMg9fwT3CfC2SrRuCo/edit?usp=sharing" target="_blank">
+<circle cx="813.631" cy="1107.03" fill="transparent" r="45.779" stroke="red" stroke-width="2"/>
+</a>
+<text style="white-space: pre; font-size: 22px;" x="759" y="1143"><title>AURA</title>BGE AURA</text>
+<a href="https://docs.google.com/spreadsheets/d/1-1lEEUvqcnGBarFH4VclvN86C6DKgwNaBt5oRbYq8bE/edit?usp=drive_link" target="_blank">
+<circle cx="647.262" cy="994.373" fill="transparent" r="45.779" stroke="red" stroke-width="2"/>
+</a>
+<text style="white-space: pre; font-size: 22px;" x="503" y="968"><title>Berry Touraine</title>BGE BERRY TOURAINE</text>
+<a href="https://docs.google.com/spreadsheets/d/1w1HDIkaXkID3RESBFY5gJKVBrMMZ_c1jnfiCEh35h5Q/edit?usp=drive_link" target="_blank" transform="matrix(1, 0, 0, 1, -21, 114)">
+<circle cx="280" cy="700" fill="transparent" r="56.521" stroke="red" stroke-width="2"/>
+</a>
+<text style="white-space: pre; font-size: 22px;" x="176" y="779">BGE BRETAGNE</text>
+<a href="https://docs.google.com/spreadsheets/d/1gteza0do0FRfuLL7wgbHXRUxaoY62fFeg_4m7DOWmKs/edit?usp=drive_link" target="_blank" transform="matrix(1, 0, 0, 1, 17.186268, 36.520821)">
+<circle cx="739" cy="1490" fill="transparent" r="35.038" stroke="red" stroke-width="2"/>
+</a>
+<text style="white-space: pre; font-size: 22px;" x="741" y="1550"><title>Langedoc</title>BGE LANGUEDOC CATALOGNE</text>
+<a href="https://docs.google.com/spreadsheets/d/1gRS1P_kQfGkFbYaSWjaIUssPtEahvjruBQjjO9KdB14/edit?usp=drive_link" target="_blank" transform="matrix(1, 0, 0, 1, -21.482836, 107.414177)">
+<circle cx="920" cy="616" fill="transparent" r="39.335" stroke="red" stroke-width="2"/>
+</a>
+<text style="white-space: pre; font-size: 22px;" x="721" y="705"><title>Champagnes Ardenne</title>BGE CHAMPAGNE ARDENNES</text>
+<a href="https://docs.google.com/spreadsheets/d/1mwp7gBc3-pOdkuz5fL3fErxnIoJIm1lWDlTLXRFboEA/edit?usp=drive_link" target="_blank" transform="matrix(1, 0, 0, 1, -2.148283, -45.113956)">
+<circle cx="1220" cy="1640" fill="transparent" r="45.779" stroke="red" stroke-width="2"/>
+</a>
+<text style="white-space: pre; font-size: 22px;" x="1155" y="1636"><title>Corse</title>BGE CORSE</text>
+<a href="https://docs.google.com/spreadsheets/d/1OdIalmJVGjcqaDRRuURJHwgCEZ9ePWxcs7nDU_riRhg/edit?usp=drive_link" target="_blank" transform="matrix(1, 0, 0, 1, 33.779404, 50.410522)">
+<circle cx="1170" cy="1340" fill="transparent" r="39.335" stroke="red" stroke-width="2"/>
+</a>
+<text style="white-space: pre; font-size: 22px;" x="1181" y="1426"><title>Cote d'azur</title>BGE COTE D’AZUR</text>
+<a href="https://docs.google.com/spreadsheets/d/1JtHqGNTq_u4sLUtKgWhO3u2IZ1ME1sX-KuooXWZuSMk/edit?usp=drive_link" target="_blank" transform="matrix(1, 0, 0, 1, 86.079628, 99.783058)">
+<circle cx="860" cy="880" fill="transparent" r="50.076" stroke="red" stroke-width="2"/>
+</a>
+<text style="white-space: pre; font-size: 22px;" x="742" y="1008"><title>Cote d'OR</title>BGE COTE D’OR, SAONE ET LOIRE AIN</text>
+<a href="https://docs.google.com/spreadsheets/d/1nYI0BNlrLKFgd0UK9hebefP9fV33WmO6FDfmODGz_68/edit?usp=drive_link" target="_blank" transform="matrix(1, 0, 0, 1, -143, -2)">
+<circle cx="870" cy="450" fill="transparent" r="32.89" stroke="red" stroke-width="2"/>
+</a>
+<text style="white-space: pre; font-size: 22px;" x="589" y="426">BGE FLANDRE CREATION</text>
+<a href="https://docs.google.com/spreadsheets/d/1gSm1pqh2hl3dn8sNMrIfzpylABJ6lfEePj3uYWaUkPY/edit?usp=drive_link" target="_blank" transform="matrix(1, 0, 0, 1, 25.779404, 58.003654)">
+<circle cx="1050" cy="878" fill="transparent" r="41.483" stroke="red" stroke-width="2"/>
+</a>
+<text style="white-space: pre; font-size: 22px;" x="1002" y="905"><title>Franche Comté</title>BGE FRANCHE COMTE</text>
+<a href="https://docs.google.com/spreadsheets/d/1h2c8EVJxl63l31wzI_m2viKFFX1Bhb2qaUgQT4CSM5o/edit?usp=drive_link" target="_blank" transform="matrix(1, 0, 0, 1, -10.741418, 10.741418)">
+<circle cx="530" cy="1660" fill="transparent" r="41.483" stroke="red" stroke-width="2"/>
+</a>
+<text style="white-space: pre;" x="555" y="1668">BGE GUYANE</text>
+<a href="https://docs.google.com/spreadsheets/d/1KFQObt21IEb8vNTCVbLfzqZciH7ugW_xYsEr3yk6AT8/edit?usp=drive_link" target="_blank" transform="matrix(1, 0, 0, 1, -170.455826, 45.410522)">
+<circle cx="950" cy="480" fill="transparent" r="39.335" stroke="red" stroke-width="2"/>
+</a>
+<text style="white-space: pre; font-size: 22px;" x="749" y="500"><title>Hauts de France</title>BGE HAUTS DE FRANCE</text>
+<a href="https://docs.google.com/spreadsheets/d/1CXgbu7bzfAP_97tAGUQgYgdcm31rW66YSQYiG_lqS3w/edit?usp=drive_link" target="_blank" transform="matrix(1, 0, 0, 1, -10.741418, -2.851717)">
+<circle cx="430" cy="1380" fill="transparent" r="41.483" stroke="red" stroke-width="2"/>
+</a>
+<text style="white-space: pre; font-size: 22px;" x="353" y="1350"><title>Landes</title>BGE LANDES</text>
+<a href="https://docs.google.com/spreadsheets/d/1g3lM1wF0PzzqwoOu0_PTXBC2QR__1cDGpaqE5h9tTxE/edit?usp=drive_link" target="_blank">
+<circle cx="535.779" cy="1084.3" fill="transparent" r="54.373" stroke="red" stroke-width="2"/>
+</a>
+<text style="white-space: pre; font-size: 22px;" x="305" y="1130"><title>Limousin Poitou Charentes</title>BGE LIMOUSIN POITOU CHARENTES</text>
+<a href="https://docs.google.com/spreadsheets/d/1WfjIP7BVWCNWxaipXMGMZLsGqCiKnZay_VjXZ1rroxc/edit?usp=drive_link" target="_blank" transform="matrix(1, 0, 0, 1, -153, 27)">
+<circle cx="820" cy="470" fill="transparent" r="37.186" stroke="red" stroke-width="2"/>
+</a>
+<text style="white-space: pre; font-size: 22px;" x="403" y="494">BGE LITTORAL OPALE</text>
+<a href="https://docs.google.com/spreadsheets/d/1fDHvSkr9HTya1D9qUBQ0nhRmAbqgtFgQhwSiYo90lh4/edit?usp=drive_link" target="_blank" transform="matrix(1, 0, 0, 1, 0, -30.07597)">
+<circle cx="350" cy="1700" fill="transparent" r="45.779" stroke="red" stroke-width="2"/>
+</a>
+<text style="white-space: pre; font-size: 22px;" x="267" y="1718"><title>Mayotte</title>BGE MAYOTTE</text>
+<a href="https://docs.google.com/spreadsheets/d/1zawJvbBcEaCj6LsyNYg2cKitdAkJdtbtqXwzD7F_O4E/edit?usp=drive_link" target="_blank" transform="matrix(1, 0, 0, 1, 4, -19)">
+<circle cx="830.228" cy="908.517" fill="transparent" r="43.631" stroke="red" stroke-width="2"/>
+</a>
+<text style="white-space: pre; font-size: 22px;" x="725" y="879"><title>Nievres Yonne</title>BGE NIEVRE-YONNE</text>
+<a href="https://docs.google.com/spreadsheets/d/1eMp11X5ghIKqp0tBqmVVJWHgEBKtH4PnKjvpAzmjVTQ/edit?gid=1184793044#gid=1184793044" target="_blank" transform="matrix(1, 0, 0, 1, 73, 1)">
+<circle cx="480" cy="700" fill="transparent" r="58.669" stroke="red" stroke-width="2"/>
+</a>
+<text style="white-space: pre; font-size: 22px;" x="459" y="673">BGE NORMANDIE</text>
+<a href="https://docs.google.com/spreadsheets/d/1KK4od6N3FdzV93P9quqSCItOBVUH5lh1w7Tgej8-IqY/edit?usp=drive_link" target="_blank" transform="matrix(1, 0, 0, 1, -26.334553, 19.334553)">
+<circle cx="680" cy="1460" fill="transparent" r="35.038" stroke="red" stroke-width="2"/>
+</a>
+<text style="white-space: pre; font-size: 22px;" x="511" y="1524"><title>Ouest Audois</title>BGE OUEST AUDOIS</text>
+<a href="https://docs.google.com/spreadsheets/d/1mRpzojLelnXl8VF3sEZCmkPGuU6hwIDvVmw_VmohR94/edit?usp=drive_link" target="_blank" transform="matrix(1, 0, 0, 1, -12.037985, 5.593134)">
+<circle cx="770" cy="1450" fill="transparent" r="20" stroke="red" stroke-width="2"/>
+</a>
+<text style="white-space: pre; font-size: 22px;" x="786" y="1465">BGE OUEST HERAULT</text>
+<a href="https://docs.google.com/spreadsheets/d/1QhScecGU3JmqvDsULNxXijnp_AkJM5LQJ03-VtK5DeA/edit?usp=drive_link" target="_blank" transform="matrix(1, 0, 0, 1, -29.669106, -13.889702)">
+<circle cx="1210" cy="490" fill="transparent" r="28.594" stroke="red" stroke-width="2"/>
+</a>
+<text style="white-space: pre; font-size: 22px;" x="1127" y="517"><title>Parif</title>BGE PARIF</text>
+<a href="https://docs.google.com/spreadsheets/d/1XPUdaDagiknNdGvG4G_ymeZ1YUxXSk78LbWfUkTMDyU/edit?usp=drive_link" target="_blank" transform="matrix(1, 0, 0, 1, -59.596794, 39.07597)">
+<circle cx="830" cy="590" fill="transparent" r="41.483" stroke="red" stroke-width="2"/>
+</a>
+<text style="white-space: pre; font-size: 22px;" x="786" y="624"><title>Picardie</title>BGE PICARDIE</text>
+<a href="https://docs.google.com/spreadsheets/d/17nwf-YRKvHcv7ktvUDNffycXG5Xjlp4fQSztL6-nc_E/edit?usp=drive_link" target="_blank" transform="matrix(1, 0, 0, 1, 26.224255, 128.083282)">
+<circle cx="1030" cy="1260" fill="transparent" r="43.631" stroke="red" stroke-width="2"/>
+</a>
+<a href="https://docs.google.com/spreadsheets/d/1-jsoIUhhFMJrv-uWyq49F1u7bPKgJpzrg1-DXJWH-Ak/edit?usp=drive_link" target="_blank" transform="matrix(1, 0, 0, 1, 27.669106, 47.965672)">
+<circle cx="400" cy="1440" fill="transparent" r="43.631" stroke="red" stroke-width="2"/>
+</a>
+<text style="white-space: pre; font-size: 22px;" x="94" y="1492"><title>Pyrénées atlantiques</title>BGE PYRENEES ATLANTIQUE</text>
+<a href="https://docs.google.com/spreadsheets/d/1cK0bY5AzktWz2xYHbE0EXDMIsmzduXbPZIFfBi-UdnA/edit?usp=drive_link" target="_blank" transform="matrix(1, 0, 0, 1, 17.186268, -36.520821)">
+<circle cx="590" cy="1390" fill="transparent" r="62.966" stroke="red" stroke-width="2"/>
+</a>
+<text style="white-space: pre; font-size: 22px;" x="517" y="1322"><title>Sud Ouest</title>BGE SUD OUEST</text>
+<a href="https://docs.google.com/spreadsheets/d/1cdoAkarevwbkajG_5OSlw7IxRQFHkHfHzGZN28HfxEI/edit?usp=drive_link" target="_blank" transform="matrix(1, 0, 0, 1, -6, -10)">
+<circle cx="668.593" cy="841.559" fill="transparent" r="47.928" stroke="red" stroke-width="2"/>
+</a>
+<text style="white-space: pre; font-size: 22px;" x="539" y="808"><title>Terres de Loire</title>BGE TERRES DE LOIRE</text>
+<a href="https://docs.google.com/spreadsheets/d/10RDqIxnj3fDpv8C6SXHzB51NAm73FR5ZlJJeqLhwwZc/edit?usp=drive_link" target="_blank" transform="matrix(1, 0, 0, 1, -126.748734, -21.482836)">
+<circle cx="1240" cy="440" fill="transparent" r="30.741" stroke="red" stroke-width="2"/>
+</a>
+<text style="white-space: pre; font-size: 22px;" x="1015" y="393"><title>Yvelines</title>BGE YVELINES</text>
+<text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 24px; white-space: pre;" x="1005.73" y="1363.33">BGE PAM</text>
+</svg>
